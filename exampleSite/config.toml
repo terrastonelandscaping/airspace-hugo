@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "TerraStone Landscaping"
+title = "Terra  Stone Landscaping"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
