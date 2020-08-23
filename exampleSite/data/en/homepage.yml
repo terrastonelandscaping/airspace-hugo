@@ -13,15 +13,16 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semanticsdfgfdgffffffffff
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Our Terrastone Landscaping team consist of qualified technicians, experienced
+    sales staff, and customer service consultants. We offer free home visit consultations
+    and quotations. Always encouraging customer feedback, as we continually strive
+    to satisfy your needs.
+  content: TerraStone Landscaping Inc. is at the top of the full service restoration
+    and hardscaping indsutry. We specialize in high pressure cleaning, application
+    of protective sealants and complete landscape design and installation. Our Management
+    Team provides exceptional service with quality work. With over 15 years of experience,
+    we at TerraStone Landscaping are the experts you can trust for your next home
+    or business project.
   image: images/wrapper-img.png
 portfolio:
   enable: true
