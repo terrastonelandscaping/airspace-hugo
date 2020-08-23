@@ -49,8 +49,7 @@ service:
     content: Don't get stuck this winter. Terrastone provides around-the-clock plowing
       and de-icing services.
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Exterior Restorations
+    content: 'Maintain your home’s exterior appeal. '
 cta:
   enable: true
