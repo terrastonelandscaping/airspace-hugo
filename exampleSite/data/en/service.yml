@@ -38,7 +38,7 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
-  - icon: ion-work
+  - icon: ti-mobile
     name: Landscaping
     content: '"Home" starts at the very first glance.'
   - icon: ion-compass
