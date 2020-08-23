@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/main_banner.jpg"
   bg_overlay: true
   title: We create beauty and tranquility around your home
   content: At TerraStone Landscaping, our main goal is to deliver the best in landscaping
