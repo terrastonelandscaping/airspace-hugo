@@ -45,9 +45,9 @@ service:
     name: Hardscaping
     content: The foundation to the utility and aesthetic delight in outdoor living.
   - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Snow Removal
+    content: Don't get stuck this winter. Terrastone provides around-the-clock plowing
+      and de-icing services.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
