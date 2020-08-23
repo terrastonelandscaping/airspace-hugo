@@ -30,12 +30,12 @@ portfolio:
   enable: true
   bg_image: "/images/great_ideas.jpg"
   title: WE BELIEVE IN GREAT IDEAS
-  content: Returning home to wherever life takes you should be met with the character
-    that only ‘home’ can greet you with. Our seasoned experts will transform a vision
+  content: "Returning home to wherever life takes you should be met with the character
+    that only ‘home’ can greet you with. \nOur seasoned experts will transform a vision
     you have for your home to reality. While we are working on transforming your home’s
     exterior, we are considerate to the fact that you still are still living there
     and will ensure we leave your home clean and with minimal interference to your
-    living. <br>
+    living. \n"
   button:
     enable: true
     label: View Great Ideas
