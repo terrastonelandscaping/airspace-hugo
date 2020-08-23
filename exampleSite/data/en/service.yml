@@ -41,7 +41,7 @@ service:
   - icon: emojione-monotone:evergreen-tree
     name: Landscaping
     content: '"Home" starts at the very first glance.'
-  - icon: bi-bricks
+  - icon: ion-airplane-sharp
     name: Hardscaping
     content: The foundation to the utility and aesthetic delight in outdoor living.
   - icon: ion-image
