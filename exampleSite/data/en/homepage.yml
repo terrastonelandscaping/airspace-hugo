@@ -3,12 +3,14 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: We create beauty and tranquility around your home
+  content: At TerraStone Landscaping, our main goal is to deliver the best in landscaping
+    options for our Toronto-area customers. Our service technicians are hand-selected
+    to offer knowledgeable, friendly and punctual service,and we guarantee your satisfaction
+    or we'll make things right, right away!
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Projects
     link: project
 about:
   enable: true
