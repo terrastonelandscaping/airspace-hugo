@@ -1,5 +1,5 @@
 baseURL = "https://terrastonelandscapingtest.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
