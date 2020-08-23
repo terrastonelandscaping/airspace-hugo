@@ -49,11 +49,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/faq
   label: FAQ (en)
   create: none
