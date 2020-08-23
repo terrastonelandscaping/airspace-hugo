@@ -44,7 +44,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/contact.jpg"
   title: Contact us to recieve a free quote
   content: We welcome all requests and look forward to meeting with you to discuss
     how we can work together to enhance the beauty of your outdoor living areas.
