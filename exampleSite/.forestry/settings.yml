@@ -64,11 +64,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/pages
   label: Created Pages (en)
   create: documents
