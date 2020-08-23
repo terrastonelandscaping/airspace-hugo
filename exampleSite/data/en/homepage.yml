@@ -45,13 +45,12 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Contact us to recieve a free quote
+  content: We welcome all requests and look forward to meeting with you to discuss
+    how we can work together to enhance the beauty of your outdoor living areas.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: GET QUOTE
     link: contact
 funfacts:
   enable: true
