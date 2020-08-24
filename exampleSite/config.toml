@@ -145,7 +145,7 @@ email = "Joseph@terrastonelandscaping.com"
 google_analitycs_id = ""
 location = "151 Bentley at #11, Markham, Ontario"
 logo = "images/logo.png"
-mobile = "(416) 953-9062"
+mobile = "4169539062"
 multi_author = false
 [params.gmap]
 enable = true
