@@ -138,14 +138,14 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "TerraStone"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "Joseph@terrastonelandscaping.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "151 Bentley at #11, Markham, Ontario"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "(416) 953-9062"
 multi_author = false
 [params.gmap]
 enable = true
