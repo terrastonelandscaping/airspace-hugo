@@ -8,10 +8,7 @@ about:
     enable: true
     label: Download sizing chart
     link: "#"
-  funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
+  funfacts: []
   description: hhello
 features:
   enable: true
