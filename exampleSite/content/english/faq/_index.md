@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: ''
 subtitle: ''
-date: 2020-03-23T13:05:29.000+06:00
+date: 2020-08-26T19:06:29+00:00
 bg_image: images/featue-bg.jpg
 
 ---
