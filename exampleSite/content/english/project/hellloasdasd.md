@@ -1,5 +1,5 @@
 ---
-title: Rio Furniture
+title: Landscaping
 description: ''
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
