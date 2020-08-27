@@ -18,7 +18,7 @@ features:
     name: 1. Call or Email Terrastone for a quote
     content: NANAr
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
+    name: 2. Plan
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-game-controller-b-outline
