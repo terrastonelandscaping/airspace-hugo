@@ -12,12 +12,11 @@ about:
   description: ''
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: 'Our flow '
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 1. Call or Email Terrastone for a quote
+    content: NANAr
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
