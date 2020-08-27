@@ -46,7 +46,7 @@ mission_vision:
     content: NAnar?
   - name: Mission
     content: Nanar?
-  - name: Approach
+  - name: Values
     content: NAnar?
 cta:
   enable: true
