@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: false
+  enable: true
   pricing_table:
   - name: Basic
     price: "$99"
