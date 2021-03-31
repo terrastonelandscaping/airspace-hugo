@@ -40,7 +40,7 @@ sections:
   match: "*"
 - type: directory
   path: exampleSite/content/english/service
-  label: Service (en)
+  label: Services (en)
   create: none
   match: "*"
 - type: directory
