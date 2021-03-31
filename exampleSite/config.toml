@@ -56,10 +56,6 @@ URL = "news"
 name = "News"
 weight = 5
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
