@@ -48,14 +48,14 @@ URL = "service"
 name = "Services"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "News"
-weight = 5
-[[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
 weight = "6"
+[[Languages.en.menu.main]]
+URL = "blog"
+name = "News"
+weight = 5
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
