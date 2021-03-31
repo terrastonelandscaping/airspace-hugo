@@ -52,8 +52,8 @@ URL = "services"
 name = "Services"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "news"
+name = "News"
 weight = 5
 [[Languages.en.menu.main]]
 hasChildren = true
