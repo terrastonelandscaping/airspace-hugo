@@ -48,7 +48,7 @@ URL = "service"
 name = "Services"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "news"
+URL = "blog"
 name = "News"
 weight = 5
 [[Languages.en.menu.main]]
