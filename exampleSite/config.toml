@@ -40,7 +40,7 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "projects"
+URL = "project"
 name = "Projects"
 weight = 3
 [[Languages.en.menu.main]]
