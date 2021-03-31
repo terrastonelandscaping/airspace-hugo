@@ -39,7 +39,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/services
+  path: exampleSite/content/english/service
   label: Services (en)
   create: none
   match: "*"
