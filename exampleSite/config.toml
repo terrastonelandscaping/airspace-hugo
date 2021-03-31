@@ -44,8 +44,8 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
+URL = "projects"
+name = "Projects"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "service"
