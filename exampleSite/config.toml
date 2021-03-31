@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Terra  Stone Landscaping"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 [TerraStoneLandscaping](www.terrastonelandscaping.com All Rights Reserved"
+copyright = "Copyright &copy; 2021 [TerraStoneLandscaping](www.terrastonelandscaping.com) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
