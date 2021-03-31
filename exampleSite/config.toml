@@ -20,13 +20,9 @@ URL = "project"
 name = "Project"
 weight = 2
 [[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
+URL = "services"
+name = "Services"
 weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
 [[Languages.en.menu.footer]]
 URL = "faq"
 name = "FAQ"
