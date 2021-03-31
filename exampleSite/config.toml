@@ -51,7 +51,7 @@ weight = 4
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
-weight = "6"
+weight = ""
 [[Languages.en.menu.main]]
 URL = "blog"
 name = "News"
