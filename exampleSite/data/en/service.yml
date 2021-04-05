@@ -47,9 +47,8 @@ service:
     name: Hardscaping
     content: The foundation to the utility and aesthetic delight in outdoor living.
   - icon: ion-image
-    name: Snow Removal
-    content: Don't get stuck this winter. Terrastone provides around-the-clock plowing
-      and de-icing services.
+    name: Sealant application
+    content: ''
   - icon: ion-bug
     name: Exterior Restorations
     content: 'Maintain your home’s exterior appeal. '
