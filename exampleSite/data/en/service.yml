@@ -40,16 +40,16 @@ service:
     maintenance plans to keep your property looking impressive all year, or we can
     offer as-needed services when you simply don't have the time to keep up with things.
   service_item:
-  - icon: ''
+  - icon: emojione-monotone:evergreen-tree
+    name: Flagstone Restoration
+    content: ''
+  - icon: emojione-monotone:evergreen-tree
+    name: Interlock re-leveling & Restoration
+    content: ''
+  - icon: emojione-monotone:evergreen-tree
     name: ''
     content: ''
-  - icon: ''
-    name: ''
-    content: ''
-  - icon: ''
-    name: ''
-    content: ''
-  - icon: ''
+  - icon: emojione-monotone:evergreen-tree
     name: ''
     content: ''
   - icon: emojione-monotone:evergreen-tree
