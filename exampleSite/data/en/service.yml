@@ -50,7 +50,7 @@ service:
     name: Sealant application
     content: ''
   - icon: ion-bug
-    name: Exterior Restorations
-    content: 'Maintain your home’s exterior appeal. '
+    name: Polymeric sand installation
+    content: ''
 cta:
   enable: true
