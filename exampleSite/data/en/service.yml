@@ -25,7 +25,7 @@ featured_service:
     color: primary-dark
     content: The foundation to the utility and aesthetic delight in outdoor living
   - name: Exterior Restorations
-    icon: ion-lightbulb
+    icon: ion-construct
     color: primary-darker
     content: Maintain your home’s exterior appeal
 service:
