@@ -53,8 +53,6 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: Vision
-    content: NAnar?
   - name: Our Mission
     content: 'Our mission at TerraStone Landscaping Inc. is to give you the space
       of your dreams without exception. Our mission with any project, big or small,
@@ -63,7 +61,12 @@ mission_vision:
       projects can be stressful for clients, we strive to remove all stress from the
       equation, and take care of everything by being transparent, and working diligently
       to exceed expectations. '
-  - name: Values
-    content: NAnar?
+  - name: Our Values
+    content: The secret to our success has always been the connections we built with
+      our customers--one grounded in the values of honesty and trust. We believe that
+      your space, whether it be your home or your business, is a sanctuary, and we
+      vow to enhance and restore the beauty of the space.  By taking the time to really
+      understand what the customer’s vision is, we are able to and uphold the value
+      the space truly has, and make clients’ dreams of the space come true.
 cta:
   enable: true
