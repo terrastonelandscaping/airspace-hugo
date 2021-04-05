@@ -16,20 +16,18 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: Landscaping
     icon: ion-airplane
     color: primary
-    content: ''
-  - name: Product Branding
+    content: '"Home" starts at the very first glance'
+  - name: Hardscaping
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: Game Development
+    content: The foundation to the utility and aesthetic delight in outdoor living
+  - name: Exterior Restorations
     icon: ion-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Maintain your home’s exterior appeal
 service:
   enable: true
   title: Our Services
