@@ -3,9 +3,20 @@ about:
   enable: true
   image: images/company/about.jpg
   title: 'We strive to be the best '
-  content: What should i write here?
+  content: At TerraStone Landscaping Inc., every customer is treated like family.
+    We offer free home visits consultations and honest quotations, taking the time
+    to understand what you want and work diligently to help get your dream home or
+    commercial space from conception to completion. We specialize in everything from
+    high pressure cleaning, application of sealants to complete restorations and installations.
+    Our team includes qualified technicians, experienced sales staff and customer
+    service consultants who work tirelessly to provide the most time/cost effective
+    and high-quality results. Here at TerraStone Landscaping, we prioritize your needs,
+    address your concerns, and make sure you are comfortable with the project at every
+    step along the way. With over 15 years of experience, we let our past customers
+    do the talking. Please check out our testimonials for more insight into the quality
+    of service we provide.
   button:
-    enable: true
+    enable: false
     label: Download sizing chart
     link: "#"
   funfacts: []
