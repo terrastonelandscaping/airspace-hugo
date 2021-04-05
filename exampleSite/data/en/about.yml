@@ -56,7 +56,13 @@ mission_vision:
   - name: Vision
     content: NAnar?
   - name: Mission
-    content: Nanar?
+    content: 'Our mission at TerraStone Landscaping Inc. is to give you the space
+      of your dreams without exception. Our mission with any project, big or small,
+      is to connect with our clients on a deeper level and understand their needs
+      in order to deliver extraordinary products and services. We recognize that landscaping
+      projects can be stressful for clients, we strive to remove all stress from the
+      equation, and take care of everything by being transparent, and working diligently
+      to exceed expectations. '
   - name: Values
     content: NAnar?
 cta:
