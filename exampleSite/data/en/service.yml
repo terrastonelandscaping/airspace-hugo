@@ -47,10 +47,10 @@ service:
     name: Interlock re-leveling & Restoration
     content: ''
   - icon: emojione-monotone:evergreen-tree
-    name: ''
+    name: Epoxy coatings
     content: ''
   - icon: emojione-monotone:evergreen-tree
-    name: ''
+    name: Outdoor Kitchens
     content: ''
   - icon: emojione-monotone:evergreen-tree
     name: ''
