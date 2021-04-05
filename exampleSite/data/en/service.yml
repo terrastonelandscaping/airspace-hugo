@@ -41,8 +41,8 @@ service:
     offer as-needed services when you simply don't have the time to keep up with things.
   service_item:
   - icon: emojione-monotone:evergreen-tree
-    name: Landscaping
-    content: '"Home" starts at the very first glance.'
+    name: Power Washing
+    content: ''
   - icon: ion-airplane-sharp
     name: Hardscaping
     content: The foundation to the utility and aesthetic delight in outdoor living.
