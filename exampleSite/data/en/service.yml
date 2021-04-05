@@ -17,7 +17,7 @@ featured_service:
   enable: true
   service_item:
   - name: Landscaping
-    icon: ion-airplane
+    icon: ion-leaf
     color: primary
     content: '"Home" starts at the very first glance'
   - name: Hardscaping
