@@ -26,24 +26,30 @@ features:
   title: 'Our flow '
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: 1. Call or Email Terrastone for a quote
-    content: NANAr
+    name: Call or Email Terrastone for a quote
+    content: 'During a phone consult, we have the opportunity to connect with you
+      and understand the vision you have for the space. Based on the information gathered
+      about the space and the specifics of the project, we will be able to give you
+      a rough estimate to give you an idea of how much the project will cost. We will
+      also set up a time for an in-person consultation (typically on the same day),
+      as we know clients are excited to get projects in motion. '
   - icon: ion-ios-unlocked-outline
-    name: 2. Plan
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: In-Person Consult
+    content: 'We love the in-person consultations, as we are able to truly get a feel
+      for the space. We are also able to address all your concerns and walk you through
+      the whole process of the project. We will provide an official quote to you that
+      day to put your mind at ease. '
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Registration
+    content: 'Once you are put in our system and the deposit is given, we will note
+      your preferences on the start and end date of the project. '
   - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Sit back and Relax
+    content: 'you can sit back and watch your vision for the space come to life. We
+      value transparency and we will always keep you up to date with the project. '
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Enjoy your new Space and Refer TerraStone to your friends!
+    content: ''
   - icon: ion-ios-star-outline
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
