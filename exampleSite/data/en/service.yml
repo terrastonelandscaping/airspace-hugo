@@ -17,10 +17,9 @@ featured_service:
   enable: true
   service_item:
   - name: Interface Design
-    icon: ion-erlenmeyer-flask
+    icon: ion-airplane
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: ''
   - name: Product Branding
     icon: ion-leaf
     color: primary-dark
