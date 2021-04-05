@@ -44,8 +44,8 @@ service:
     name: Power Washing
     content: ''
   - icon: ion-airplane-sharp
-    name: Hardscaping
-    content: The foundation to the utility and aesthetic delight in outdoor living.
+    name: Weed Removal
+    content: ''
   - icon: ion-image
     name: Sealant application
     content: ''
