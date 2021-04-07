@@ -14,7 +14,7 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Landscaping
     icon: ion-leaf
