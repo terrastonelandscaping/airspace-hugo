@@ -72,7 +72,7 @@ funfacts:
     count: "58"
   testimonial_slider:
   - name: Don Keeley
-    image: images/clients/avater-1.jpg
+    image: images/clients/
     designation: Toronto
     content: Recently used Terrastone Landscaping Inc. to replace my 20x35 ft patio
       and my drive way. I am very happy with the results. I requested estimates from
@@ -83,7 +83,7 @@ funfacts:
       they worked long and hard, left the job site clean and tidy. I've had nothing
       but compliments since the work was done. I am one happy customer!
   - name: 'Sharlene '
-    image: images/clients/avater-1.jpg
+    image: images/clients/
     designation: Toronto
     content: We hired Joe and his team to renovate our patio and build a pergola.
       The crew were nice to work with, full of ideas and listened to our requirements.
@@ -91,7 +91,7 @@ funfacts:
       their budget. I would hire them again and would recommend them to anyone who
       asks.
   - name: Mark
-    image: images/clients/avater-3.jpg
+    image: images/clients/
     designation: Richmond Hill
     content: I contacted Joey at Terrastone to 'touch up' my front and backyard last
       year before I sold my house. I was referred by another friend of mine and I
