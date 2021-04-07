@@ -4,9 +4,9 @@ banner:
   bg_image: "/images/main_banner.jpg"
   bg_overlay: true
   title: The grass is always greener on our side
-  content: We carefully choose our projects first, only committing to improvements
-    large and small when our expertise and the clients needs are well-aligned and
-    in tune!
+  content: At TerraStone Inc., you are guaranteed exceptional landscaping services
+    from experienced technicians who are passionate about transforming your space
+    into the space of your dreams
   button:
     enable: true
     label: Discover Our Projects
