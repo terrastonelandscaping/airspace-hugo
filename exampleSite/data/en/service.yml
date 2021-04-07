@@ -50,7 +50,7 @@ service:
     content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
   - icon: ion-image
     name: Sealing & coatings
-    content: ''
+    content: Interlock Sealing, Natural Stone Sealing,  Concrete Sealing,  Epoxy coating
   - icon: ion-image
     name: Exterior Restorations
     content: ''
