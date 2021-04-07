@@ -53,6 +53,6 @@ service:
     content: Interlock Sealing, Natural Stone Sealing,  Concrete Sealing,  Epoxy coating
   - icon: ion-image
     name: Exterior Restorations
-    content: ''
+    content: Interlock Repairs, Natural Stone Repairs, Crack Repair
 cta:
   enable: true
