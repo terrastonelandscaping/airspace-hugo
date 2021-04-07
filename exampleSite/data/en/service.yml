@@ -47,7 +47,7 @@ service:
       Patios, Outdoor kitchens, Water features
   - icon: ion-image
     name: Cleaning
-    content: ''
+    content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
   - icon: ion-image
     name: Sealing & coatings
     content: ''
