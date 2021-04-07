@@ -43,7 +43,8 @@ service:
       delivery and installation
   - icon: ion-image
     name: HardScaping
-    content: ''
+    content: Interlock, Natural stone, Concrete walls, Gardens, Driveways, Front walkways,
+      Patios, Outdoor kitchens, Water features
   - icon: ion-image
     name: Cleaning
     content: ''
