@@ -39,7 +39,8 @@ service:
   service_item:
   - icon: ion-image
     name: Landscaping
-    content: ''
+    content: Complete Lawn Renovation (100% Organic),Sod installation, Soil and mulch
+      delivery and installation
   - icon: ion-image
     name: HardScaping
     content: ''
