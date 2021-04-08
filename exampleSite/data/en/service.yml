@@ -41,7 +41,7 @@ service:
     name: Landscaping
     content: Complete Lawn Renovation (100% Organic),Sod installation, Soil and mulch
       delivery and installation
-  - icon: ion-image
+  - icon: ion-hammer
     name: HardScaping
     content: Interlock, Natural stone, Concrete walls, Gardens, Driveways, Front walkways,
       Patios, Outdoor kitchens, Water features
