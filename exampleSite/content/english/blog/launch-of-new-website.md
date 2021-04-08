@@ -1,12 +1,11 @@
 +++
-author = ""
+author = "joseph Hanna"
 bg_image = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
-tags = []
+tags = [""]
 title = "Launch of new website"
 type = "post"
 
