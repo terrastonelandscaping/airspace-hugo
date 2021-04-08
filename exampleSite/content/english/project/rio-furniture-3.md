@@ -1,6 +1,6 @@
 ---
-title: Driveway
-description: this is meta description
+title: Driveway Interlock
+description: ''
 image: "/images/20171104_175230.jpg"
 bg_image: "/images/main_banner.jpg"
 category: Hardscaping
