@@ -9,6 +9,15 @@ information:
   info: Website Redesign
 - label: Completed on
   info: 17th March 2014
+gallery:
+- "/images/img-20200705-wa0010.jpg"
+- "/images/img-20200705-wa0009.jpg"
+- "/images/img-20200705-wa0008.jpg"
+- "/images/img-20200705-wa0002.jpg"
+- "/images/20200617_131946.jpg"
+- "/images/20180626_161149.jpg"
+- "/images/20171107_134554.jpg"
+- "/images/20171107_102127.jpg"
 
 ---
 ## Behance Website Redesign
