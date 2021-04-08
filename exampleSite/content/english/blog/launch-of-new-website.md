@@ -1,7 +1,7 @@
 +++
 author = "joseph Hanna"
 bg_image = ""
-categories = []
+categories = ["", ""]
 date = ""
 description = ""
 image = ""
