@@ -1,18 +1,14 @@
 ---
-title: Landscaping
+title: Driveway
 description: ''
-image: images/portfolio/work6.jpg
-bg_image: images/featue-bg.jpg
-category: Video
+image: "/images/20160812_125429.jpg"
+bg_image: "/images/20160812_125647.jpg"
+category: Hardscaping
 information:
-- label: Client
-  info: Jannie Kelonsky
 - label: What We Did
   info: Website Redesign
 - label: Completed on
   info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
 
 ---
 ## Behance Website Redesign
