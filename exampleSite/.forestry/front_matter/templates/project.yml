@@ -12,6 +12,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
 - type: file
   name: bg_image
   label: bg image
@@ -30,7 +34,3 @@ fields:
   - type: text
     name: info
     label: info
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: gallery
