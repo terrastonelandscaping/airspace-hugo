@@ -1,6 +1,6 @@
 ---
-title: Project
-description: this is meta description
+title: Projects
+description: ''
 bg_image: images/featue-bg.jpg
 
 ---
