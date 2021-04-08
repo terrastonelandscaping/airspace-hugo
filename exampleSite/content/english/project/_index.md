@@ -1,6 +1,6 @@
 ---
 title: Projects
 description: ''
-bg_image: images/featue-bg.jpg
+bg_image: "/images/main_banner.jpg"
 
 ---
