@@ -9,6 +9,8 @@ information:
   info: Website Redesign
 - label: Completed on
   info: 17th March 2014
+gallery:
+- "/images/20171107_134554.jpg"
 
 ---
 ## Behance Website Redesign
