@@ -2,7 +2,7 @@
 title: Driveway
 description: ''
 image: "/images/20160812_125429.jpg"
-bg_image: "/images/20160812_125647.jpg"
+bg_image: "/images/main_banner.jpg"
 category: Hardscaping
 information:
 - label: What We Did
