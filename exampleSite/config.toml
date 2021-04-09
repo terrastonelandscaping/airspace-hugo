@@ -50,7 +50,6 @@ weight = 4
 [[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
 weight = ""
 [[Languages.en.menu.main]]
 URL = "blog"
