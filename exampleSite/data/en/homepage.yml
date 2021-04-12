@@ -74,7 +74,7 @@ funfacts:
     count: 14%
   - icon: ion-ios-timer-outline
     name: Projected Completed
-    count: 500+
+    count: "500"
   testimonial_slider:
   - name: Don Keeley
     image: ''
