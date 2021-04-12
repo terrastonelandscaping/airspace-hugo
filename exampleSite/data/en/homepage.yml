@@ -73,7 +73,7 @@ funfacts:
     name: Home value increase
     count: 14%
   - icon: ion-ios-timer-outline
-    name: Projected Completed
+    name: Projected Completed and counting
     count: "500"
   testimonial_slider:
   - name: Don Keeley
