@@ -10,3 +10,4 @@ title = "Launch of new website"
 type = "post"
 
 +++
+Welcome to our newly redesigned website
