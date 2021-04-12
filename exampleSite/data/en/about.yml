@@ -32,10 +32,9 @@ features:
       give you a rough estimate '
   - icon: ion-ios-unlocked-outline
     name: In-Person Consult
-    content: 'We love the in-person consultations, as we are able to truly get a feel
-      for the space. We are also able to address all your concerns and walk you through
-      the whole process of the project. We will provide an official quote to you that
-      day to put your mind at ease. '
+    content: 'We are able to address all your concerns and walk you through the whole
+      process of the project. We will provide an official quote to you that day to
+      put your mind at ease. '
   - icon: ion-ios-game-controller-b-outline
     name: Registration
     content: 'Once you are put in our system and the deposit is given, we will note
