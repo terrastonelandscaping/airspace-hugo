@@ -45,7 +45,7 @@ service:
     name: HardScaping
     content: Interlock, Natural stone, Concrete walls, Gardens, Driveways, Front walkways,
       Patios, Outdoor kitchens, Water features
-  - icon: ion-image
+  - icon: ion-color-wand
     name: Cleaning
     content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
   - icon: ion-flask
