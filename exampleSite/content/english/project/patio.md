@@ -7,6 +7,9 @@ image = "/images/backyard-2.png"
 title = "Patio"
 [[information]]
 info = ""
-label = ""
+label = "What We Did"
+[[information]]
+info = ""
+label = "Completed on"
 
 +++
