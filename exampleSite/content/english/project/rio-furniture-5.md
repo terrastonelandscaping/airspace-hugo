@@ -8,7 +8,7 @@ information:
 - label: What We Did
   info: ''
 - label: Completed on
-  info: 17th March 2014
+  info: ''
 gallery:
 - "/images/walkway-1.png"
 - "/images/walkway-3.png"
