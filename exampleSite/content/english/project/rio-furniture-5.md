@@ -10,6 +10,7 @@ information:
 - label: Completed on
   info: ''
 gallery:
+- "/images/walkway-2.png"
 - "/images/walkway-1.png"
 - "/images/walkway-3.png"
 
