@@ -70,8 +70,8 @@ funfacts:
     name: 'Year established '
     count: "2008"
   - icon: ion-ios-compose-outline
-    name: Home Value Increase (%)
-    count: "14"
+    name: Number of Employees
+    count: "12"
   - icon: ion-ios-timer-outline
     name: Projected Completed & Counting
     count: "500"
