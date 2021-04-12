@@ -27,10 +27,9 @@ features:
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: 'Call or Email '
-    content: We have the opportunity to connect with you and understand the vision
-      you have for the space. Based on the information gathered about the space and
-      the specifics of the project, we will be able to give you a rough estimate to
-      give you an idea of how much the project will cost.
+    content: 'We have the opportunity to connect with you and understand the vision
+      you have for the space. Based on the information gathered, we will be able to
+      give you a rough estimate '
   - icon: ion-ios-unlocked-outline
     name: In-Person Consult
     content: 'We love the in-person consultations, as we are able to truly get a feel
