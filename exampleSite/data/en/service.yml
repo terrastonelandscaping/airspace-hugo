@@ -31,11 +31,12 @@ featured_service:
 service:
   enable: true
   title: What we do
-  description: Our Toronto landscaping professionals recognize the unique nature of
-    each job they perform, and we always work with our customers to create customized
-    solutions. Relying on our years of experience, we can help you to design scheduled
-    maintenance plans to keep your property looking impressive all year, or we can
-    offer as-needed services when you simply don't have the time to keep up with things.
+  description: 'As experienced landscaping professionals, we recognize the unique
+    nature of each job we take on, and always work with clients to create customized
+    solutions. Relying on our years of experience, we can help you create the space
+    you''ve been dreaming of, and design a scheduled maintenance plan to keep your
+    property looking impressive all year round, hassle-free. Alternatively, we also
+    offer as-needed services to address your restoration needs any time. '
   service_item:
   - icon: ion-layers
     name: Landscaping
