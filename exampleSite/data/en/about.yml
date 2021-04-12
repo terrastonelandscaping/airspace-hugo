@@ -30,6 +30,10 @@ features:
     content: 'We have the opportunity to connect with you and understand the vision
       you have for the space. Based on the information gathered, we will be able to
       give you a rough estimate '
+  - icon: ion-ios-color-filter-outline
+    name: Schedule a Visit
+    content: 'We will set up a time for an in-person consultation (typically on the
+      same day), as we know clients are excited to get projects in motion. '
   - icon: ion-ios-unlocked-outline
     name: In-Person Consult
     content: 'We are able to address all your concerns and walk you through the whole
