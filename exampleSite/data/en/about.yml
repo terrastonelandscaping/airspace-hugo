@@ -43,13 +43,14 @@ features:
     name: Registration
     content: 'Once you are put in our system and the deposit is given, we will note
       your preferences on the start and end date of the project. '
-  - icon: ion-ios-lightbulb-outline
-    name: Enjoy your new Space and Refer TerraStone to your friends!
-    content: ''
   - icon: ion-ios-mic-outline
     name: Sit back and Relax
     content: 'you can sit back and watch your vision for the space come to life. We
       value transparency and we will always keep you up to date with the project. '
+  - icon: ion-ios-lightbulb-outline
+    name: Enjoy your haven!
+    content: We are confident that you will enjoy your new space so much that you
+      will want to refer TerraStone to your friends!
 testimonial:
   enable: true
 mission_vision:
