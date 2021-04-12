@@ -36,3 +36,4 @@ fields:
     label: info
 pages:
 - exampleSite/content/english/project/patio.md
+- exampleSite/content/english/project/steps.md
