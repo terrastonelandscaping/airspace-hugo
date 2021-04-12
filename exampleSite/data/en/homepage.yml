@@ -67,14 +67,14 @@ funfacts:
     name: Tons of stone
     count: "9637"
   - icon: ion-ios-glasses-outline
-    name: Satisfied Customers
-    count: "125"
+    name: 'Year established '
+    count: "2008"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: Home value increase
+    count: 14%
   - icon: ion-ios-timer-outline
-    name: 'Combined Years Experince '
-    count: "58"
+    name: Projected Completed
+    count: 500+
   testimonial_slider:
   - name: Don Keeley
     image: ''
