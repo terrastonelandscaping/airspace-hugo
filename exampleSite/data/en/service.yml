@@ -48,7 +48,7 @@ service:
   - icon: ion-image
     name: Cleaning
     content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
-  - icon: ion-image
+  - icon: ion-flask
     name: Sealing & coatings
     content: Interlock Sealing, Natural Stone Sealing,  Concrete Sealing,  Epoxy coating
 cta:
