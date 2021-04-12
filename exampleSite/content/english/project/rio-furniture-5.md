@@ -1,5 +1,5 @@
 ---
-title: Walkways
+title: Walkway
 description: ''
 image: "/images/walkway-2.png"
 bg_image: "/images/main_banner.jpg"
