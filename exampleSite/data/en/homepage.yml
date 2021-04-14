@@ -31,7 +31,7 @@ about:
     at our craft, we have combined old-school craftsmanship with new-age technology\n-
     **PREMIUM QUALITY:** We offer quality material and services at a very reasonable
     price. Please contact us to get your free quote today\n"
-  image: images/wrapper-img.png
+  image: images/whyus.png
 portfolio:
   enable: true
   bg_image: "/images/great_ideas.png"
