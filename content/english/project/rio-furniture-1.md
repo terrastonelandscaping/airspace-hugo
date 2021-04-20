@@ -12,7 +12,4 @@ information:
 gallery:
 - "/images/power-1.jpg"
 - "/images/power-2.jpg"
-- "/images/power-1.png"
-- "/images/power-2.png"
-
 ---

@@ -12,8 +12,4 @@ information:
 gallery:
 - "/images/backyard-1.jpg"
 - "/images/backyard-2.jpg"
-- "/images/patio-1.png"
-- "/images/patio-2.png"
-- "/images/patio-3.png"
-
 ---

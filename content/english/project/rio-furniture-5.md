@@ -13,8 +13,4 @@ gallery:
 - "/images/walkway-1.jpg"
 - "/images/walkway-2.jpg"
 - "/images/walkway-3.jpg"
-- "/images/walkway-2.png"
-- "/images/walkway-1.png"
-- "/images/walkway-3.png"
-
 ---

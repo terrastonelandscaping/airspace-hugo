@@ -14,9 +14,4 @@ gallery:
 - "/images/driveway-2.jpg"
 - "/images/driveway-3.jpg"
 - "/images/driveway-4.jpg"
-- "/images/driveway-2.png"
-- "/images/driveway-3.png"
-- "/images/driveway-1.png"
-- "/images/driveway-4.png"
-
 ---

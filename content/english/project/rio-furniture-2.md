@@ -14,9 +14,4 @@ gallery:
 - "/images/artboard-2.jpg"
 - "/images/artboard-1.jpg"
 - "/images/artboard-4.jpg"
-- "/images/artboard-2.png"
-- "/images/artboard-4.png"
-- "/images/artboard-1.png"
-- "/images/artboard-3.png"
-
 ---
