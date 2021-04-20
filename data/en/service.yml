@@ -38,18 +38,18 @@ service:
     property looking impressive all year round, hassle-free. Alternatively, we also
     offer as-needed services to address your restoration needs any time. '
   service_item:
-  - icon: ion-layers
+  - icon: layers-outline
     name: Landscaping
     content: Complete Lawn Renovation (100% Organic),Sod installation, Soil and mulch
       delivery and installation
-  - icon: ion-diamond
+  - icon: diamond-outline
     name: HardScaping
     content: Interlock, Natural stone, Concrete walls, Gardens, Driveways, Front walkways,
       Patios, Outdoor kitchens, Water features
-  - icon: ion-color-wand
+  - icon: color-wand-outline
     name: Cleaning
     content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
-  - icon: ion-flask
+  - icon: flask-outline
     name: Sealing & coatings
     content: Interlock Sealing, Natural Stone Sealing,  Concrete Sealing,  Epoxy coating
 cta:

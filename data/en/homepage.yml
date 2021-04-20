@@ -69,7 +69,7 @@ funfacts:
   - icon: ion-ios-glasses-outline
     name: 'Year established '
     count: "2008"
-  - icon: ion-ios-compose-outline
+  - icon: "/images/funfacts/employees.svg"
     name: Number of Employees
     count: "12"
   - icon: ion-ios-timer-outline
