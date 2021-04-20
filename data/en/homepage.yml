@@ -63,17 +63,17 @@ funfacts:
   title: Fun Facts About Us
   description: ''
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
+  - icon: /images/funfacts/stone.svg
     name: Tons of stone
     count: "9637"
-  - icon: ion-ios-glasses-outline
-    name: 'Year established '
+  - icon: /images/funfacts/calendar.svg
+    name: 'Year established'
     count: "2008"
-  - icon: "/images/funfacts/employees.svg"
+  - icon: /images/funfacts/employee.svg
     name: Number of Employees
     count: "12"
-  - icon: ion-ios-timer-outline
-    name: Projected Completed & Counting
+  - icon: /images/funfacts/checklist.svg
+    name: Projected Completed &
     count: "500"
   testimonial_slider:
   - name: Don Keeley

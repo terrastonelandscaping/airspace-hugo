@@ -100,16 +100,14 @@
     </div>
     <div class="row">
       <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            {{ range .funfact_item }}
-            <li class="counter-item">
-              <img src="{{ .icon }}">
-              <h4 class="count" data-count="{{ .count }}">0</h4>
-              <span>{{ .name | markdownify }}</span>
-            </li>
-            {{ end }}
-          </ul>
+        <div class="row row-no-gutters counter-box">
+          {{ range .funfact_item }}
+          <div class="col-md-6 counter-item">
+            <img src="{{ .icon }}" style="width: 80px; min-height: 120px;">
+            <h4 class="count" data-count="{{ .count }}">0</h4>
+            <span>{{ .name | markdownify }}</span>
+          </div>
+          {{ end }}
         </div>
       </div>
       <div class="col-md-5 col-md-offset-1">
