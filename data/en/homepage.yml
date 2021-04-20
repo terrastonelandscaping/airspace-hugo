@@ -1,0 +1,106 @@
+---
+banner:
+  enable: true
+  bg_image: "/images/main_banner.jpg"
+  bg_overlay: true
+  title: The grass is always greener on our side
+  content: At TerraStone Inc., you are guaranteed exceptional landscaping services
+    from experienced technicians who are passionate about transforming your property
+    into the space of your dreams
+  button:
+    enable: true
+    label: Discover Our Projects
+    link: project
+about:
+  enable: true
+  title: Why TerraStone
+  description: Our Terrastone Landscaping team consist of qualified technicians, experienced
+    sales staff, and customer service consultants. We offer free home visit consultations
+    and quotations. Always encouraging customer feedback, as we continually strive
+    to satisfy your needs.
+  content: "- **DEDICATED:** We make sure we allocate enough staff to make sure your
+    project is complete in a timely fashion\n- **ACCESSIBLE:** We promise same-day
+    responses on all inquiries made, and make sure to have staff available for an
+    on-site consultation within 1 business day. \n- **FRIENDLY AND PROFESSIONAL STAFF:**
+    We treat each customer like family, and cultivate great relationships with our
+    clients while  maintaining professional standards of punctuality and high quality
+    service.\n- **TRANSPARENCY:** We promise to be honest about the progress of your
+    project, making sure you are part of every decision made \n- **GUARANTEES:** We
+    offer various warranties for our services. Please contact us for more information
+    regarding your specific project and needs.\n- **20+ YEARS EXPERIENCE:** Masters
+    at our craft, we have combined old-school craftsmanship with new-age technology\n-
+    **PREMIUM QUALITY:** We offer quality material and services at a very reasonable
+    price. Please contact us to get your free quote today\n"
+  image: images/whyus.png
+portfolio:
+  enable: true
+  bg_image: "/images/leaves.png"
+  title: WE BELIEVE IN GREAT IDEAS
+  content: "Returning home to wherever life takes you should be met with the character
+    that only ‘home’ can greet you with. \n\nOur seasoned experts will transform a
+    vision you have for your home to reality. While we are working on transforming
+    your home’s exterior, we are considerate to the fact that you still are still
+    living there and will ensure we leave your home clean and with minimal interference
+    to your living. \n"
+  button:
+    enable: true
+    label: View Great Ideas
+    link: project
+service:
+  enable: true
+cta:
+  enable: true
+  bg_image: "/images/contact.jpg"
+  title: Contact us to recieve a free quote
+  content: We welcome all requests and look forward to meeting with you to discuss
+    how we can work together to enhance the beauty of your outdoor living areas.
+  button:
+    enable: true
+    label: GET QUOTE
+    link: contact
+funfacts:
+  enable: true
+  title: Fun Facts About Us
+  description: ''
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Tons of stone
+    count: "9637"
+  - icon: ion-ios-glasses-outline
+    name: 'Year established '
+    count: "2008"
+  - icon: ion-ios-compose-outline
+    name: Number of Employees
+    count: "12"
+  - icon: ion-ios-timer-outline
+    name: Projected Completed & Counting
+    count: "500"
+  testimonial_slider:
+  - name: Don Keeley
+    image: "/images/testimonial.png"
+    designation: Toronto
+    content: Recently used Terrastone Landscaping Inc. to replace my 20x35 ft patio
+      and my drive way. I am very happy with the results. I requested estimates from
+      5 companies. Joseph was one of the two companies who showed up. I felt his quote
+      was fair and decided to use his company for the job. They had to remove 2 layers
+      of concrete in the back patio. (very Difficult) We thought the job would take
+      5 days. It actually took 8 because of the rain delays. His crew was excellent,
+      they worked long and hard, left the job site clean and tidy. I've had nothing
+      but compliments since the work was done. I am one happy customer!
+  - name: 'Sharlene '
+    image: "/images/testimonial.png"
+    designation: Toronto
+    content: We hired Joe and his team to renovate our patio and build a pergola.
+      The crew were nice to work with, full of ideas and listened to our requirements.
+      They did what they were hired to do and more. They were on time and kept to
+      their budget. I would hire them again and would recommend them to anyone who
+      asks.
+  - name: Mark
+    image: "/images/testimonial.png"
+    designation: Richmond Hill
+    content: I contacted Joey at Terrastone to 'touch up' my front and backyard last
+      year before I sold my house. I was referred by another friend of mine and I
+      believe Joey and his team did an excellent job. I had visitors complimenting
+      my yard during my open-house sessions. The project took roughly 2-weeks (from
+      what I remember), and I didn't have much issue at all. It was a pretty well
+      done job and just as I expected.

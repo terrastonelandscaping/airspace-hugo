@@ -1,0 +1,56 @@
+---
+about:
+  enable: false
+  title: Creative UX/UI Design Agency
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
+    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
+    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
+    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
+    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
+    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
+    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
+    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
+    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
+    dolore officia adipisci neque!
+  image: images/company/company-group-pic.jpg
+featured_service:
+  enable: false
+  service_item:
+  - name: Landscaping
+    icon: ion-leaf
+    color: primary
+    content: '"Home" starts at the very first glance'
+  - name: Hardscaping
+    icon: ion-leaf
+    color: primary-dark
+    content: The foundation to the utility and aesthetic delight in outdoor living
+  - name: Exterior Restorations
+    icon: ion-construct
+    color: primary-darker
+    content: Maintain your home’s exterior appeal
+service:
+  enable: true
+  title: What we do
+  description: 'As experienced landscaping professionals, we recognize the unique
+    nature of each job we take on, and always work with clients to create customized
+    solutions. Relying on our years of experience, we can help you create the space
+    you''ve been dreaming of, and design a scheduled maintenance plan to keep your
+    property looking impressive all year round, hassle-free. Alternatively, we also
+    offer as-needed services to address your restoration needs any time. '
+  service_item:
+  - icon: ion-layers
+    name: Landscaping
+    content: Complete Lawn Renovation (100% Organic),Sod installation, Soil and mulch
+      delivery and installation
+  - icon: ion-diamond
+    name: HardScaping
+    content: Interlock, Natural stone, Concrete walls, Gardens, Driveways, Front walkways,
+      Patios, Outdoor kitchens, Water features
+  - icon: ion-color-wand
+    name: Cleaning
+    content: Power Washing, Interlock, Natural Stone, Concrete Walls, Stucco
+  - icon: ion-flask
+    name: Sealing & coatings
+    content: Interlock Sealing, Natural Stone Sealing,  Concrete Sealing,  Epoxy coating
+cta:
+  enable: true
