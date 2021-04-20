@@ -1,3 +1,5 @@
+$main-color: #69912d;
+
 ul {
     padding-left: 40px;
     list-style-type: circle;
@@ -5,7 +7,11 @@ ul {
 
 .btn-main,
 .feature .btn-view-works {
-    background-color: #69912d;
+    background-color: $main-color;
+}
+
+.btn-main:hover {
+    background-color: darken($main-color, 15%);
 }
 
 .btn-solid-border {
@@ -14,6 +20,8 @@ ul {
 
 .mobile {
     padding: 10px 15px;
+    font-weight: bold;
+    color: $main-color;
 }
 
 .address-block {
