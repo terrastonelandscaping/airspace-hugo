@@ -43,3 +43,8 @@ textarea {
 .counter-item {
     text-align: center;
 }
+
+.overly:before,
+.page-title:before {
+    opacity: .6;
+}
