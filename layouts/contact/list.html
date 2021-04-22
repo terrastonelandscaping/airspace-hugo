@@ -7,7 +7,7 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form name="contact" method="POST" enctype="multipart/form-data" data-netlify="true">
+      <form name="contact" method="POST" enctype="multipart/form-data" netlify>
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -34,6 +34,9 @@
               <textarea name="user_message" class="form-control" rows="4" placeholder="What would you like done?" required></textarea>
             </div>
             <button class="btn btn-default" type="submit">{{ i18n "submit" }}</button>
+          </div>
+          <div class="form-group">
+            <div netlify-recaptcha></div>
           </div>
         </div>
       </form>
