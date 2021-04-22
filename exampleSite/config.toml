@@ -1,0 +1,173 @@
+baseURL = "https://terrastonelandscapingtest.netlify.com"
+disableLanguages = ["fr"]
+disqusShortname = ""
+paginate = "4"
+summaryLength = "30"
+theme = "airspace-hugo"
+title = "Terra  Stone Landscaping"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2021 [TerraStoneLandscaping](www.terrastonelandscaping.com) All Rights Reserved"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[[Languages.en.menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[Languages.en.menu.footer]]
+URL = "projects"
+name = "Projects"
+weight = 2
+[[Languages.en.menu.footer]]
+URL = "services"
+name = "Services"
+weight = 3
+[[Languages.en.menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 5
+[[Languages.en.menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[Languages.en.menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[[Languages.en.menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[Languages.en.menu.main]]
+URL = "project"
+name = "Projects"
+weight = 3
+[[Languages.en.menu.main]]
+URL = "service"
+name = "Services"
+weight = 4
+[[Languages.en.menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = "6"
+[[Languages.en.menu.main]]
+URL = "blog"
+name = "News"
+weight = 5
+[[Languages.en.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = "7"
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[Languages.fr.menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[Languages.fr.menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
+[[Languages.fr.menu.footer]]
+URL = "service"
+name = "Service"
+weight = 3
+[[Languages.fr.menu.footer]]
+URL = "pricing"
+name = "Pricing"
+weight = 4
+[[Languages.fr.menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 5
+[[Languages.fr.menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[Languages.fr.menu.main]]
+URL = "/"
+name = "Accueil"
+weight = 1
+[[Languages.fr.menu.main]]
+URL = "about"
+name = "À propos"
+weight = 2
+[[Languages.fr.menu.main]]
+URL = "project"
+name = "Projet"
+weight = 3
+[[Languages.fr.menu.main]]
+URL = "service"
+name = "Un service"
+weight = 4
+[[Languages.fr.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 5
+[[Languages.fr.menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 6
+[[Languages.fr.menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "pricing"
+name = "Tarification"
+parent = "Pages"
+[[Languages.fr.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
+[params]
+author = "TerraStone"
+contact_form_action = "#"
+description = "This is meta description"
+email = "info@terrastonelandscaping.com"
+google_analitycs_id = ""
+location = "151 Bentley st #11, Markham, Ontario"
+logo = "images/logo.png"
+mobile = "(416) 953-9062"
+multi_author = false
+social = []
+[params.gmap]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "43.829240"
+map_longitude = "-79.332694"
+map_marker = "images/marker.png"
+[params.nav_button]
+enable = true
+label = "Get A Quote"
+link = "contact"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
