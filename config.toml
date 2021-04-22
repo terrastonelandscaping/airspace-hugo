@@ -52,7 +52,7 @@ URL = "faq"
 name = "FAQ"
 weight = "6"
 [[Languages.en.menu.main]]
-URL = "blog"
+URL = "news"
 name = "News"
 weight = 5
 [[Languages.en.menu.main]]
