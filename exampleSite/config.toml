@@ -138,7 +138,7 @@ multi_author = false
 social = []
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyALiGoJIYWnqaAzZyWywXYP67YRlSr5R7w"
 map_latitude = "43.829240"
 map_longitude = "-79.332694"
 map_marker = "images/marker.png"
