@@ -6,10 +6,12 @@ ul {
 }
 
 .btn-main,
+.contact-form .block button,
 .feature .btn-view-works {
     background-color: $main-color;
 }
 
+.contact-form .block button:hover,
 .btn-main:hover {
     background-color: darken($main-color, 15%);
 }
