@@ -73,7 +73,7 @@ funfacts:
     name: Number of Employees
     count: "12"
   - icon: /images/funfacts/checklist.svg
-    name: Projected Completed &
+    name: Projected Completed & Counting
     count: "500"
   testimonial_slider:
   - name: Don Keeley
