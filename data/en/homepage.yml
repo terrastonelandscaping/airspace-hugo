@@ -63,16 +63,16 @@ funfacts:
   title: Fun Facts About Us
   description: ''
   funfact_item:
-  - icon: /images/funfacts/stone.svg
+  - icon: "/images/funfacts/stone.svg"
     name: Tons of stone
     count: "9637"
-  - icon: /images/funfacts/calendar.svg
-    name: 'Year established'
-    count: "2008"
-  - icon: /images/funfacts/employee.svg
+  - icon: "/images/funfacts/calendar.svg"
+    name: Year established
+    count: "2011"
+  - icon: "/images/funfacts/employee.svg"
     name: Number of Employees
     count: "12"
-  - icon: /images/funfacts/checklist.svg
+  - icon: "/images/funfacts/checklist.svg"
     name: Projected Completed & Counting
     count: "500"
   testimonial_slider:
