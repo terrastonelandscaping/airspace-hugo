@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: ''
 subtitle: ''
-date: 2021-04-22T00:00:29-04:00
+date: '2021-04-22T00:00:29.000-04:00'
 bg_image: images/main_banner.jpg
 
 ---
@@ -10,7 +10,7 @@ bg_image: images/main_banner.jpg
 
 #### 1. What are the main differences between Natural Stone, Interlock and Asphalt?
 
-##### Interlocking stone pavers are made from concrete. Natural stone pavers are made from natural stone sourced from stone quarries, and Asphalt is made when a layer of crushed stone or aggregate is coated and mixed with tar.
+##### Interlocking stone pavers are made from concrete. Natural stone pavers are made from natural stone sourced from stone quarries, and Asphalt is made when a layer of crushed stone or aggregate is coated and mixed with tar
 
 #### 2. Does sealing make the surface slippery when its wet?
 
@@ -30,7 +30,7 @@ bg_image: images/main_banner.jpg
 
 #### 6. Once interlock is completed, will the ground shift?
 
-##### The ground will always move in the transition from fall to winter, and winter to spring with the seasons natural free and thaw cycles. We insure a properly base is installed to help minimise the effects on the interlocking pavers. 
+##### The ground will always move in the transition from fall to winter, and winter to spring with the seasons natural free and thaw cycles. We insure a properly base is installed to help minimise the effects on the interlocking pavers.
 
 #### 7. Do you offer warranty on the work that you do?
 
