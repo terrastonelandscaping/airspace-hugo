@@ -14,5 +14,4 @@ gallery:
 - "/images/fireplace-2.jpg"
 - "/images/fireplace-2.png"
 - "/images/fireplace-1.png"
-
 ---

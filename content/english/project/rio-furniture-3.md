@@ -1,12 +1,12 @@
 ---
-title: Driveway
+title: Parking pad
 description: ''
 image: "/images/driveway-4.jpg"
 bg_image: "/images/main_banner.jpg"
 category: Hardscaping
 information:
 - label: What We Did
-  info: ''
+  info: Created a interlocked parking pad for the driveway
 - label: Completed on
   info: ''
 gallery:

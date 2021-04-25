@@ -2,12 +2,12 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
-  label: Blog Post
+  label: News Post
 - type: directory
-  path: content/english/blog
+  path: content/english/news
   label: Post (en)
   create: documents
   match: "**/*"

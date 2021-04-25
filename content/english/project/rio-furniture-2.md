@@ -1,12 +1,12 @@
 ---
-title: Sealing
+title: Driveway Interlock
 description: ''
 image: "/images/artboard-3.jpg"
 bg_image: "/images/main_banner.jpg"
-category: Sealing & Coatings
+category: Driveway
 information:
 - label: What We Did
-  info: ''
+  info: Install interlock driveway
 - label: Completed on
   info: ''
 gallery:
