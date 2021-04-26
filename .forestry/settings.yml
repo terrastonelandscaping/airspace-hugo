@@ -8,7 +8,7 @@ sections:
   label: News Post
 - type: directory
   path: content/english/news
-  label: Post (en)
+  label: News
   create: documents
   match: "**/*"
   templates:
@@ -17,7 +17,7 @@ sections:
   label: Author
 - type: directory
   path: content/english/author
-  label: Author (en)
+  label: Author
   create: documents
   match: "**/*"
   templates:
@@ -26,7 +26,7 @@ sections:
   label: Project
 - type: directory
   path: content/english/project
-  label: Project (en)
+  label: Project
   create: documents
   match: "**/*"
   templates:
