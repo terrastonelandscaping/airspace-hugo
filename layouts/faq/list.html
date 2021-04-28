@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<section class="page-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 sticky-top">
+        <h2>{{ i18n "address_title" }}</h2>
+        <ul class="address-block">
+          <li><i class="ion-ios-location-outline"></i>{{i18n "location"}} {{ site.Params.location }}</li>
+          <li><i class="ion-ios-email-outline"></i>{{i18n "email"}} {{ site.Params.email }}</li>
+          <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}} {{ site.Params.mobile }}</li>
+        </ul>
+        <ul class="social-icons">
+          {{ range site.Params.social }}
+          <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-md-8">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

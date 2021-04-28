@@ -11,14 +11,14 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}">
+  <link rel="stylesheet" href="{{ .link | relURL }}">
   {{ end }}
   <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
 
   {{ $custom := resources.Get "scss/custom.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $custom.RelPermalink }}" media="screen">
 </head>

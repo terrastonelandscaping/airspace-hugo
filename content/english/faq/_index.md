@@ -6,7 +6,7 @@ date: '2021-04-22T00:00:29.000-04:00'
 bg_image: images/main_banner.jpg
 
 ---
-### Frequently Asked Questions!
+## Frequently Asked Questions
 
 #### 1. What are the main differences between Natural Stone, Interlock and Asphalt?
 
