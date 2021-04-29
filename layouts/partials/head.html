@@ -16,9 +16,11 @@
   <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+  {{ $sass := resources.Get "scss/style.scss" }}
+  {{ $styles := $sass | resources.ToCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
 
-  {{ $custom := resources.Get "scss/custom.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $custom.RelPermalink }}" media="screen">
+  {{ $sass = resources.Get "scss/custom.scss" }}
+  {{ $styles = $sass | resources.ToCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
 </head>
