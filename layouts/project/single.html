@@ -22,10 +22,12 @@
       </div>
     </div>
 
-    <div class="row">
+    <div class="row gallery mt-20">
         {{ range .Params.Gallery }}
         <div class="col-md-3">
+          <a href="{{ . }}">
             <img src="{{ . }}" class="img-responsive">
+          </a>
         </div>
         {{ end }}
     </div>
