@@ -17,10 +17,10 @@
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $sass := resources.Get "scss/style.scss" }}
-  {{ $styles := $sass | resources.ToCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+  {{ $styles := $sass | resources.ToCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
 
   {{ $sass = resources.Get "scss/custom.scss" }}
-  {{ $styles = $sass | resources.ToCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+  {{ $styles = $sass | resources.ToCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
 </head>
