@@ -1,10 +1,13 @@
 baseURL = "https://terrastonelandscapingtest.netlify.com"
 disableLanguages = ["fr"]
-disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Terra  Stone Landscaping"
+title = "Terra Stone Landscaping"
+enableRobotsTXT = true
+enableGitInfo = true
+inlineImports = true
+
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 [TerraStoneLandscaping](www.terrastonelandscaping.com) All Rights Reserved"
@@ -129,7 +132,7 @@ weight = 7
 author = "TerraStone"
 contact_form_action = "#"
 description = "This is meta description"
-email = "Joseph@terrastonelandscaping.com"
+email = "joseph@terrastonelandscaping.com"
 google_analitycs_id = ""
 location = "151 Bentley st #11, Markham, Ontario"
 logo = "images/logo.png"

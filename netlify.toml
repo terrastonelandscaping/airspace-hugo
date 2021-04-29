@@ -1,6 +1,16 @@
 [build]
-  publish = "public"
-  command = "hugo --gc"
+publish = "public"
+command = "hugo --gc"
 
 [build.environment]
-  HUGO_VERSION = "0.82.0"
+HUGO_VERSION = "0.82.0"
+
+[[headers]]
+for = "*"
+[headers.values]
+Strict-Transport-Security = "max-age=31536000; preload"
+Content-Security-Policy = "object-src 'none'; style-src https: 'unsafe-inline'; base-uri 'none'; frame-ancestors 'none'"
+X-Frame-Options = "DENY"
+X-Content-Type-Options = "nosniff"
+X-XSS-Protection = "1; mode=block"
+Service-Worker-Allowed = "/"
