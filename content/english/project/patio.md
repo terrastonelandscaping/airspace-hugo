@@ -6,8 +6,6 @@ gallery:
   - "/images/patio-2.jpg"
   - "/images/patio-3.jpg"
   - "/images/patio-1.jpg"
-  - "/images/backyard-1.png"
-  - "/images/backyard-2.png"
 image: "/images/patio-3.jpg"
 title: "Patio"
 information:
