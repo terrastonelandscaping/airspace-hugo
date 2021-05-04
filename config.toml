@@ -1,4 +1,4 @@
-baseURL = "https://terrastonelandscapingtest.netlify.com"
+baseURL = "https://terrastonelandscaping.com"
 disableLanguages = ["fr"]
 paginate = "4"
 summaryLength = "30"
