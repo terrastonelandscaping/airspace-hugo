@@ -170,6 +170,8 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
+link = "/dropzone.js"
+[[params.plugins.js]]
 link = "/gallery-init.js"
 [params.preloader]
 enable = true
