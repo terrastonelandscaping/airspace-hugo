@@ -2,7 +2,6 @@
 bg_image = "/images/main_banner.jpg"
 category = "Power Washing"
 description = ""
-draft = true
 gallery = ["/images/powerwash_before.jpg"]
 image = "/images/powerwash_after.jpg"
 title = "Driveway Power Washing"
