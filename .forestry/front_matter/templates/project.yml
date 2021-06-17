@@ -35,6 +35,7 @@ fields:
     name: info
     label: info
 pages:
+- content/english/project/driveway-power-washing.md
 - content/english/project/patio-1.md
 - content/english/project/patio-1.md
 - content/english/project/patio.md
