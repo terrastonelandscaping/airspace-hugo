@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/main_banner.jpg"
-category = "Power Washing, Driveway"
+category = "Power Washing"
 description = ""
 gallery = ["/images/powerwash_after.jpg", "/images/powerwash_before.jpg"]
 image = "/images/powerwash_after.jpg"
