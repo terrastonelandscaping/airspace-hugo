@@ -7,7 +7,7 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form name="contact" action="/" method="POST" id="my-awesome-dropzone" class="dropzone" enctype="multipart/form-data" netlify>
+      <form name="contact" action="/" method="POST" id="my-dropzone" class="dropzone" enctype="multipart/form-data" netlify>
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -31,11 +31,16 @@
                 <option>Sealing & Coatings</option>
               </select>
             </div>
-            <div class="form-group">
-              <div class="dropzone-previews"></div>
-              <button type="button" id="clickable" class="btn btn-main">Add photo</button>
-              <p class="help-block">Upload a picture of your project.</p>
-              <div class="dz-message"></div>
+            <div x-data="{ count: 1 }">
+              <template x-for="i in count">
+                <div class="form-group">
+                  <input type="file" name="photos[]">
+                </div>
+              </template>
+              <div class="form-group">
+                <button type="button" class="btn btn-main" @click="count++">Add photo</button>
+                <p class="help-block">Upload a picture of your project.</p>
+              </div>
             </div>
           </div>
         </div>

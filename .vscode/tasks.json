@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "hugo serve",
+      "label": "hugo: serve",
+      "detail": "start hugo development server",
+      "options": {
+        "env": {}
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "runOptions": {
+        "instanceLimit": 1
+      }
+    }
+  ]
+}
