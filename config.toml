@@ -60,7 +60,7 @@ name = "News"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Get Quote"
 weight = "7"
 [Languages.fr]
 contentDir = "content/french"
@@ -134,7 +134,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@terrastonelandscaping.com"
 google_analitycs_id = ""
-location = "151 Bentley st #11, Markham, Ontario"
+location = "151 Bentley St #11, Markham, Ontario"
 logo = "images/logo.png"
 mobile = "(647) 277-9088"
 multi_author = false
@@ -169,10 +169,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-[[params.plugins.js]]
-link = "/dropzone.js"
-[[params.plugins.js]]
-link = "/gallery-init.js"
 [params.preloader]
 enable = true
 preloader = ""

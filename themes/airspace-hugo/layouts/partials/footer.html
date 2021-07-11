@@ -21,12 +21,12 @@
 {{ end }}
 
 <!-- JS Plugins -->
-{{ range site.Params.plugins.js}}
+{{ range site.Params.plugins.js }}
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
 <!-- Main Script -->
-{{ $script := resources.Get "js/script.js" | minify}}
+{{ $script := resources.Get "js/script.js" }}
 <script src="{{ $script.Permalink }}"></script>
 
 <!-- google analitycs -->
